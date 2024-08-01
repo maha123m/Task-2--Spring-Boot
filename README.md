@@ -8,8 +8,9 @@ a basic example of how to implement these operations with a RESTful API for mana
   2) Read: Retrieve book details and list all books.
   3) Update: Modify existing book details.
   4) Delete: Remove books from the database.
-  ** This project is the first I have developed using Spring Boot and serves as an introduction to building RESTful APIs with
-      this framework. It includes a basic structure with controller, model, and repository folders.
+  
+This project is the first I have developed using Spring Boot and serves as an introduction to building RESTful APIs with
+this framework. It includes a basic structure with controller, model, and repository folders.
 
 ## Postman Results
 ### Add Book
